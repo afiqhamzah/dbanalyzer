@@ -1,0 +1,1 @@
+add "afiqhamzah\dbanalyzer\dbanalyzerServiceProvider::class" in provider array at config/app.php
