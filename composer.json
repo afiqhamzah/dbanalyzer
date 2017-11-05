@@ -1,0 +1,12 @@
+{
+    "name": "afiqhamzah/dbanalyzer",
+    "description": "Analyze the db used by app and gives out the information regarding the app's table names and their consecutive column names",
+    "type": "laravel plugin",
+    "authors": [
+        {
+            "name": "Afiq Hamzah",
+            "email": "afiq.1991@gmail.com"
+        }
+    ],
+    "require": {}
+}
