@@ -12,5 +12,8 @@
             "email": "afiq.1991@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+   "require": {
+    "php": ">=5.3.0",
+    "psr/log": "~1.0"
+    }
 }
