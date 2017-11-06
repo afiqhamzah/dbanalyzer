@@ -3,7 +3,7 @@
     "description": "Analyze the db used by app and gives out the information regarding the app's table names and their consecutive column names",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
