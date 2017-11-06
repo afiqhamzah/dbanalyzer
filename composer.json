@@ -11,5 +11,6 @@
             "name": "Afiq Hamzah",
             "email": "afiq.1991@gmail.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
