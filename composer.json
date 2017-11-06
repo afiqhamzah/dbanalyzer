@@ -1,8 +1,13 @@
 {
     "name": "afiqhamzah/dbanalyzer",
     "description": "Analyze the db used by app and gives out the information regarding the app's table names and their consecutive column names",
-    "type": "composer-plugin",
-    "license": "mit",
+    "type": "library",
+    "license": "MIT",
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "afiqhamzah\\dbanalyzer\\": "src"
+        }
+    }
 }
